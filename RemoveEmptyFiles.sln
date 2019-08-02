@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveEmptyFiles", "RemoveEmptyFiles\RemoveEmptyFiles.csproj", "{A5633990-560E-4EA9-A528-FA7192B8DE43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveEmptyFiles.BL", "RemoveEmptyFiles.BL\RemoveEmptyFiles.BL.csproj", "{69540E0F-02F8-4104-9F2C-68C70ECA5F75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5633990-560E-4EA9-A528-FA7192B8DE43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5633990-560E-4EA9-A528-FA7192B8DE43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5633990-560E-4EA9-A528-FA7192B8DE43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5633990-560E-4EA9-A528-FA7192B8DE43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69540E0F-02F8-4104-9F2C-68C70ECA5F75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69540E0F-02F8-4104-9F2C-68C70ECA5F75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69540E0F-02F8-4104-9F2C-68C70ECA5F75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69540E0F-02F8-4104-9F2C-68C70ECA5F75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {741CF24F-670B-4B67-AC66-A03940F603B2}
+	EndGlobalSection
+EndGlobal
